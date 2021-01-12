@@ -1,0 +1,130 @@
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+
+}
+h1{
+  color: #40514e;
+  font-size: 5.5rem;
+  margin: 40px auto 10px auto;
+  font-family: 'Courgette', cursive;
+}
+h2{
+  color: #40514e;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  font-weight: normal;
+  color: #40514e;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.top-container{
+  background-image: url("a.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #e3fdfd;
+  position: relative;
+  padding: 100px 0 380px;
+}
+.middle-container{
+background-color: #f5f4f4;
+padding: 50px 0 0;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #71c9ce 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: auto;
+}
+a{
+  color: #cdac81;
+  font-family: 'PT Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration:none;
+}
+a:hover{
+  color: #723881;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+  padding: 0 0 40px
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pre-contact{
+  width: 20%;
+  margin: 30px auto 50px auto;
+}
+.get-in{
+  padding-top: 50p;
+}
+.contact-me{
+background-color: #cae4db;
+padding: 0 0 60px;
+
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.footer{
+background-color: #00303f;
+padding: 40px 0 0;
+}
+
+.copyright{
+  margin: 50px 0 0;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
+
+.dp{
+  width: 150px;
+  border-radius: 100%;
+  margin-top: 0;
+}
+
+.skillImg1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skillImg2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.butn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'PT Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #2c003e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #ffffff;
+  color: #2c003e;
+  text-decoration: none;
+}
+.avoid{
+  opacity: 0%;
+}
